@@ -1,0 +1,443 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="beaulieurecords.com" resolutions="1x" timestamp="1555681279693">
+  <folder name="css">
+    <file name="site_global.css" crc="3948134202"/>
+    <file name="index.css" crc="3537440" ref="index"/>
+    <file name="iefonts_index.css" crc="3809785050" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="4216313831" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="4177022356" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="phone>index:tablet>index:index"/>
+    <file name="webpro.js" crc="4143865194" ref="phone>index:tablet>index:index"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="phone>index:tablet>index:index"/>
+    <file name="touchswipe.js" crc="4200445185" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="phone>index:tablet>index:index"/>
+    <file name="form_check.php" crc="154010282" ref="phone>index"/>
+    <file name="form_throttle.php" crc="266437015" ref="phone>index"/>
+    <file name="form_process.php" crc="512629711" ref="phone>index"/>
+    <file name="form-u5612.php" crc="3765639701" ref="phone>index"/>
+    <file name="form-u6530.php" crc="4289536251" ref="phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="phone>index:tablet>index:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:tablet>index:index"/>
+    <file name="require.js" crc="3951022091" ref="phone>index:tablet>index:index"/>
+    <file name="form-u4134.php" crc="4270513487" ref="tablet>index"/>
+    <file name="form-u4572.php" crc="4251315058" ref="tablet>index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index"/>
+    <file name="form-u1267.php" crc="504660036" ref="index"/>
+    <file name="form-u2673.php" crc="103697936" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="dj_main_photo_blank_mob.png" crc="369140505" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="border_01.png" crc="3816961318" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background_photo_temp-u5311-fr.jpg" crc="4184431081" ref="phone>index"/>
+    <file name="pattern_02.png" crc="4125325591" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pattern_03.png" crc="22470955" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="award_temp.png" crc="3856135979" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brand_logo_01-u5068-fr.png" crc="4224957012" ref="phone>index"/>
+    <file name="brand_logo_01-u5068-r-fr.png" crc="3919476732" ref="phone>index"/>
+    <file name="brand_logo_04-u5069-fr.png" crc="4128983812" ref="phone>index"/>
+    <file name="brand_logo_04-u5069-r-fr.png" crc="4125341669" ref="phone>index"/>
+    <file name="brand_logo_03-u5066-fr.png" crc="3761306982" ref="phone>index"/>
+    <file name="brand_logo_03-u5066-r-fr.png" crc="352094553" ref="phone>index"/>
+    <file name="brand_logo_02-u5065-fr.png" crc="3968556910" ref="phone>index"/>
+    <file name="brand_logo_02-u5065-r-fr.png" crc="4290899352" ref="phone>index"/>
+    <file name="brand_logo_05-u5067-fr.png" crc="4057821115" ref="phone>index"/>
+    <file name="brand_logo_05-u5067-r-fr.png" crc="437240116" ref="phone>index"/>
+    <file name="brand_logo_06-u5061-fr.png" crc="268059684" ref="phone>index"/>
+    <file name="brand_logo_06-u5061-r-fr.png" crc="91197791" ref="phone>index"/>
+    <file name="menu_button_normal.png" crc="296338797" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu_button_rollover.png" crc="134864289" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu_button_active.png" crc="3764451022" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu_target.png" crc="66864352" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu_target2.png" crc="3789937428" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu_close1.png" crc="146840281" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu_close2.png" crc="301018707" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pattern_01.png" crc="377543841" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pattern_05.png" crc="3805484940" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholder_thumb.png" crc="4073863019" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook_w.png" crc="37074157" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook.png" crc="326531227" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter_icon.png" crc="467542784" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.png" crc="174799109" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="soundcloud_icon.png" crc="4263402492" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="soundcloud.png" crc="3896811206" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram_w.png" crc="321652192" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram.png" crc="28575438" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tumblr_w.png" crc="103238145" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tumblr.png" crc="4273529452" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="border_02.png" crc="4251613199" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholder_thumb-u3724-fr.png" crc="4004338563" ref="tablet>index:index"/>
+    <file name="brand_logo_01.png" crc="3785021278" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brand_logo_01-u3826-r-fr.png" crc="184181353" ref="tablet>index:index"/>
+    <file name="brand_logo_03.png" crc="396857371" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brand_logo_03-u3832-r-fr.png" crc="246957970" ref="tablet>index:index"/>
+    <file name="brand_logo_05.png" crc="4194714188" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brand_logo_05-u3831-r-fr.png" crc="513827442" ref="tablet>index:index"/>
+    <file name="brand_logo_04.png" crc="361635818" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brand_logo_04-u3829-r-fr.png" crc="4248049320" ref="tablet>index:index"/>
+    <file name="brand_logo_02.png" crc="158662681" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brand_logo_02-u3825-r-fr.png" crc="488062756" ref="tablet>index:index"/>
+    <file name="brand_logo_06.png" crc="3876264460" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brand_logo_06-u3830-r-fr.png" crc="55592735" ref="tablet>index:index"/>
+    <file name="placeholder_thumb-u3792-fr.png" crc="75312671" ref="tablet>index:index"/>
+    <file name="prev_arrow.png" crc="4172819420" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="next_arrow.png" crc="22164481" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dj_main_photo.png" crc="300191072" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background_photo_temp-u3685-fr.jpg" crc="3835699999" ref="tablet>index"/>
+    <file name="prev_arrow-u7392-3-fr.png" crc="3825864828" ref="tablet>index:index"/>
+    <file name="next_arrow-u7122-3-fr.png" crc="4199383806" ref="tablet>index:index"/>
+    <file name="placeholder_thumb-u7445-fr.png" crc="120879109" ref="tablet>index:index"/>
+    <file name="placeholder_thumb-u7445-r-fr.png" crc="290568101" ref="tablet>index:index"/>
+    <file name="placeholder_photo.png" crc="4183695832" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prev_small_arrow.png" crc="4286427314" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="next_small_arrow.png" crc="187421845" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close_button.png" crc="370163849" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2018-philippe-6283.png" crc="4102524491" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background_photo_temp.jpg" crc="4170507650" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="214461919" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="3766237149" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="183557776" seo="true" mt="1555681271321" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3933363783" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="392214860" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4038844404" seo="true" mt="1555681271419" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="340295877" seo="true" mt="1555681271321" redirect="true"/>
+</manifest>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://beaulieurecords.com/index.html</loc>
+    <lastmod>2019-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://beaulieurecords.com/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://beaulieurecords.com/tablet/index.html"/>
+    <image:image>
+      <image:loc>http://beaulieurecords.com/images/2018-philippe-6283.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
